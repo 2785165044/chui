@@ -1,0 +1,59 @@
+{
+  "__version__": "1.0.6",
+  "layer": [
+    {
+      "name": "Scene",
+      "value": 1
+    },
+    {
+      "name": "Path",
+      "value": 2
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitWidth": false,
+      "fitHeight": false
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "PLAYER"
+      },
+      {
+        "index": 2,
+        "name": "PLANE"
+      },
+      {
+        "index": 3,
+        "name": "FLY"
+      },
+      {
+        "index": 4,
+        "name": "CAR"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 6,
+      "1": 1061,
+      "2": 51,
+      "3": 80,
+      "4": 220,
+      "5": 70,
+      "6": 56,
+      "7": 16,
+      "8": 512,
+      "9": 256,
+      "10": 3074,
+      "11": 1024
+    }
+  },
+  "script": {
+    "preserveSymlinks": true
+  }
+}
