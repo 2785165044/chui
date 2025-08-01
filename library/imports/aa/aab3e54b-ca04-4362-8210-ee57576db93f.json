@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "balldi",
+    "texture": "c3ff4d5f-a193-483b-b55e-0eb1a2bcb566",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      547,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      547,
+      173
+    ],
+    "capInsets": [
+      160,
+      60,
+      160,
+      40
+    ]
+  }
+}

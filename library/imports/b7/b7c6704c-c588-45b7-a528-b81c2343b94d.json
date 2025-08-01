@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nongshe",
+    "texture": "a3500f2e-42d0-47c6-b045-518df7d83efd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      635,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      635,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

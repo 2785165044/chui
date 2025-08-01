@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tudi",
+    "texture": "1878e736-1cd6-469f-8f39-cf6b47d3eae2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      788,
+      575
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      788,
+      575
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

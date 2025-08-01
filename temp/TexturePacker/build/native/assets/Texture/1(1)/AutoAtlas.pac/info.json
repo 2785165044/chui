@@ -1,0 +1,519 @@
+{
+  "projectPath": "D:\\project\\century-game-2025\\BA\\BAPL104-2",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "3882e30f-da00-4599-8b43-1c901e9ef0c5": {
+      "assetMtime": 1746519625118,
+      "metaMtime": 1749005688388
+    },
+    "4e3e01be-3978-4ef5-96b8-b8e4d888c680": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688396
+    },
+    "a4bf2acb-cfe2-416f-badc-c955d5391a79": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688396
+    },
+    "5068ba4a-9eb6-4d36-84ae-108d649fe675": {
+      "assetMtime": 1746519625114,
+      "metaMtime": 1749005688388
+    },
+    "f2188064-b5e2-4cb2-818e-bc352cfb94cf": {
+      "assetMtime": 1746519625114,
+      "metaMtime": 1749005688388
+    },
+    "74a5cf50-dbc2-4822-8bd6-5de69de451fd": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688421
+    },
+    "7c7a7c80-169b-4da9-b99f-21807d90a978": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688421
+    },
+    "7ac28a31-586d-4249-90ca-7d95239b345a": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688410
+    },
+    "8c99d05e-2e2c-44dd-b907-64287ab88cb0": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688410
+    },
+    "7b304e58-07e1-4848-956f-4f384b0a5335": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688399
+    },
+    "5958917e-c44c-44ea-8ca3-b2af6de990df": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688399
+    },
+    "a4c54225-7d15-4095-86d0-42a1d7278aa3": {
+      "assetMtime": 1746519625113,
+      "metaMtime": 1749005688386
+    },
+    "f0a2701e-610d-43fc-95fe-b9435a694088": {
+      "assetMtime": 1746519625113,
+      "metaMtime": 1749005688386
+    },
+    "a9af8147-8e04-4421-9638-bd4aa5f7a710": {
+      "assetMtime": 1746519625114,
+      "metaMtime": 1749005688385
+    },
+    "0e38826e-dd85-4358-a430-ab9790a2fe2f": {
+      "assetMtime": 1746519625114,
+      "metaMtime": 1749005688385
+    },
+    "af8bc576-df23-44fc-bcb5-5c3a4536e171": {
+      "assetMtime": 1746519625118,
+      "metaMtime": 1749005688426
+    },
+    "9f9cc947-2543-4f56-8b08-dcd82d728564": {
+      "assetMtime": 1746519625118,
+      "metaMtime": 1749005688426
+    },
+    "b25ad99b-dd72-4a72-91f6-c7525d5777ed": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688409
+    },
+    "585e312e-5034-4e22-9319-f19c40ef005c": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688409
+    },
+    "b4457743-b3e9-402b-acc9-a298ba0de8aa": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688391
+    },
+    "018b7a68-4835-4648-a997-3b58bfc022f0": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688391
+    },
+    "d7283681-2919-483b-bba7-c5f8e83f279c": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688427
+    },
+    "e31c37c8-7b2d-4528-be44-ffeda77c8f84": {
+      "assetMtime": 1746519625117,
+      "metaMtime": 1749005688427
+    },
+    "e7d674af-885e-4301-9aa2-3dadacfffb90": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688416
+    },
+    "77e66b63-d955-432a-9288-d0f1cbbb934e": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688416
+    },
+    "ede4a010-c057-4f58-b870-211d3ffd1044": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688401
+    },
+    "7a0e9796-cd3c-4cc0-ae93-227a9498cb86": {
+      "assetMtime": 1746519625115,
+      "metaMtime": 1749005688401
+    },
+    "f40998b3-32db-41b3-bbbc-eb93541b6d18": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688414
+    },
+    "0dc57444-e7c8-470d-bcdc-d99f2ef4371e": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688414
+    },
+    "ffe5daee-1a11-4dbe-8935-31a43722084e": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688404
+    },
+    "b82d937e-1c96-4ef2-a86c-57e465dcb2b9": {
+      "assetMtime": 1746519625116,
+      "metaMtime": 1749005688404
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.5",
+    "uuid": "3882e30f-da00-4599-8b43-1c901e9ef0c5",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "05",
+            "uuid": "4e3e01be-3978-4ef5-96b8-b8e4d888c680",
+            "textureUuid": "a4bf2acb-cfe2-416f-badc-c955d5391a79",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043763_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/a4/a4bf2acb-cfe2-416f-badc-c955d5391a79.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "02",
+            "uuid": "5068ba4a-9eb6-4d36-84ae-108d649fe675",
+            "textureUuid": "f2188064-b5e2-4cb2-818e-bc352cfb94cf",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043763_image_1.png",
+            "trim": {
+              "x": 159,
+              "y": 3,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/f2/f2188064-b5e2-4cb2-818e-bc352cfb94cf.png",
+            "x": 156,
+            "y": 0,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "12",
+            "uuid": "74a5cf50-dbc2-4822-8bd6-5de69de451fd",
+            "textureUuid": "7c7a7c80-169b-4da9-b99f-21807d90a978",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043763_image_2.png",
+            "trim": {
+              "x": 315,
+              "y": 3,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/7c/7c7a7c80-169b-4da9-b99f-21807d90a978.png",
+            "x": 312,
+            "y": 0,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "11",
+            "uuid": "7ac28a31-586d-4249-90ca-7d95239b345a",
+            "textureUuid": "8c99d05e-2e2c-44dd-b907-64287ab88cb0",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043763_image_3.png",
+            "trim": {
+              "x": 3,
+              "y": 159,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/8c/8c99d05e-2e2c-44dd-b907-64287ab88cb0.png",
+            "x": 0,
+            "y": 156,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "06",
+            "uuid": "7b304e58-07e1-4848-956f-4f384b0a5335",
+            "textureUuid": "5958917e-c44c-44ea-8ca3-b2af6de990df",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043763_image_4.png",
+            "trim": {
+              "x": 159,
+              "y": 159,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/59/5958917e-c44c-44ea-8ca3-b2af6de990df.png",
+            "x": 156,
+            "y": 156,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "00",
+            "uuid": "a4c54225-7d15-4095-86d0-42a1d7278aa3",
+            "textureUuid": "f0a2701e-610d-43fc-95fe-b9435a694088",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_5.png",
+            "trim": {
+              "x": 315,
+              "y": 159,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/f0/f0a2701e-610d-43fc-95fe-b9435a694088.png",
+            "x": 312,
+            "y": 156,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "01",
+            "uuid": "a9af8147-8e04-4421-9638-bd4aa5f7a710",
+            "textureUuid": "0e38826e-dd85-4358-a430-ab9790a2fe2f",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 315,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/0e/0e38826e-dd85-4358-a430-ab9790a2fe2f.png",
+            "x": 0,
+            "y": 312,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "14",
+            "uuid": "af8bc576-df23-44fc-bcb5-5c3a4536e171",
+            "textureUuid": "9f9cc947-2543-4f56-8b08-dcd82d728564",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 471,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/9f/9f9cc947-2543-4f56-8b08-dcd82d728564.png",
+            "x": 0,
+            "y": 468,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "07",
+            "uuid": "b25ad99b-dd72-4a72-91f6-c7525d5777ed",
+            "textureUuid": "585e312e-5034-4e22-9319-f19c40ef005c",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 627,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/58/585e312e-5034-4e22-9319-f19c40ef005c.png",
+            "x": 0,
+            "y": 624,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "03",
+            "uuid": "b4457743-b3e9-402b-acc9-a298ba0de8aa",
+            "textureUuid": "018b7a68-4835-4648-a997-3b58bfc022f0",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_9.png",
+            "trim": {
+              "x": 159,
+              "y": 315,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/01/018b7a68-4835-4648-a997-3b58bfc022f0.png",
+            "x": 156,
+            "y": 312,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "13",
+            "uuid": "d7283681-2919-483b-bba7-c5f8e83f279c",
+            "textureUuid": "e31c37c8-7b2d-4528-be44-ffeda77c8f84",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_10.png",
+            "trim": {
+              "x": 315,
+              "y": 315,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/e3/e31c37c8-7b2d-4528-be44-ffeda77c8f84.png",
+            "x": 312,
+            "y": 312,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "10",
+            "uuid": "e7d674af-885e-4301-9aa2-3dadacfffb90",
+            "textureUuid": "77e66b63-d955-432a-9288-d0f1cbbb934e",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_11.png",
+            "trim": {
+              "x": 159,
+              "y": 471,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/77/77e66b63-d955-432a-9288-d0f1cbbb934e.png",
+            "x": 156,
+            "y": 468,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "04",
+            "uuid": "ede4a010-c057-4f58-b870-211d3ffd1044",
+            "textureUuid": "7a0e9796-cd3c-4cc0-ae93-227a9498cb86",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_12.png",
+            "trim": {
+              "x": 159,
+              "y": 627,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/7a/7a0e9796-cd3c-4cc0-ae93-227a9498cb86.png",
+            "x": 156,
+            "y": 624,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "09",
+            "uuid": "f40998b3-32db-41b3-bbbc-eb93541b6d18",
+            "textureUuid": "0dc57444-e7c8-470d-bcdc-d99f2ef4371e",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_13.png",
+            "trim": {
+              "x": 315,
+              "y": 471,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/0d/0dc57444-e7c8-470d-bcdc-d99f2ef4371e.png",
+            "x": 312,
+            "y": 468,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          },
+          {
+            "name": "08",
+            "uuid": "ffe5daee-1a11-4dbe-8935-31a43722084e",
+            "textureUuid": "b82d937e-1c96-4ef2-a86c-57e465dcb2b9",
+            "path": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\trimImages\\spritesheet_js_1749106043764_image_14.png",
+            "trim": {
+              "x": 315,
+              "y": 627,
+              "width": 150,
+              "height": 150,
+              "rotatedWidth": 150,
+              "rotatedHeight": 150
+            },
+            "rawWidth": 150,
+            "rawHeight": 150,
+            "width": 156,
+            "height": 156,
+            "originalPath": "D:/project/century-game-2025/BA/BAPL104-2/library/imports/b8/b82d937e-1c96-4ef2-a86c-57e465dcb2b9.png",
+            "x": 312,
+            "y": 624,
+            "rotatedWidth": 156,
+            "rotatedHeight": 156
+          }
+        ],
+        "width": 468,
+        "height": 780,
+        "name": "AutoAtlas-1",
+        "imagePath": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\TexturePacker\\build\\native\\assets\\Texture\\1(1)\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\project\\century-game-2025\\BA\\BAPL104-2\\temp\\TexturePacker\\build\\native\\assets\\Texture\\1(1)\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

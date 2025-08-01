@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "金币ui",
+    "texture": "c9a4be72-7384-4837-8189-12c42d056d6c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      274,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

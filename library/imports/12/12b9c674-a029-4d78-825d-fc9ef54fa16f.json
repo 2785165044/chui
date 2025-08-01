@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maizidi",
+    "texture": "fb1eb0d5-745a-4618-8495-571616e4777e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

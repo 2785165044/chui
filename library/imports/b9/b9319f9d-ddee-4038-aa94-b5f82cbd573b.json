@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiuying1",
+    "texture": "b2d5aa48-5efa-4329-96f6-e618a290b702",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      50,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      50,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "excludeFolders": [
+    "Texture/spine/bingo/"
+  ],
+  "excludeFiles": [],
+  "minQuality": 40,
+  "maxQuality": 80,
+  "colors": 256,
+  "speed": 3
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "保龄球阴影",
+    "texture": "b396f65e-49e0-41b3-a50a-5f7cc43f37fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      191,
+      229
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      191,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

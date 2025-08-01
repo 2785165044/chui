@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "dev.d",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "declare interface Window {\r\n    muteOpen\r\n    muteClose\r\n    download\r\n}"
+}

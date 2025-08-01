@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiazai",
+    "texture": "e9e7e39a-ce95-4df8-a755-ce1dad97a858",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      547,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      547,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
